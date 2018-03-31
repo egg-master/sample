@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "go"
+		},
+		{
+			"path": "js\\webpack\\jquery"
+		},
+		{
+			"path": "js\\webpack\\riot"
+		}
+	],
+	"settings": {}
+}
